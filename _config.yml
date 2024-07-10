@@ -6,6 +6,8 @@ baseurl: ""
 url: "https://minecrafthopper.net"
 twitter_username: ""
 github_username:  ""
+paste_site: "[PasteBook](https://pastebook.dev/new)"
+paste_site_name: "PasteBook"
 
 markdown: kramdown
 theme: jekyll-theme-cayman

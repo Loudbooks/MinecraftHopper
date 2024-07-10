@@ -47,13 +47,13 @@ As soon as your issue has occurred, go back to the Game Output window and select
 
 #### Step 6
 
-Open [https://paste.gg](https://paste.gg) and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Paste name'** field, and a description (e.g. "Output log") in the **'Description'** field..
-![Paste.gg site with data pasted](/static/images/help/guides/getting-minecraft-game-output-log/game-log-step6.png)
+Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Paste name'** field, and a description (e.g. "Output log") in the **'Description'** field..
+![{{ site.paste_site_name }} site with data pasted](/static/images/help/guides/getting-minecraft-game-output-log/game-log-step6.png)
 
 #### Step 7
 
 Click **Submit Anonymously**. On the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
-![Paste.gg site with data pasted and URL showing](/static/images/help/guides/getting-minecraft-game-output-log/game-log-step7.png)
+![{{ site.paste_site_name }} site with data pasted and URL showing](/static/images/help/guides/getting-minecraft-game-output-log/game-log-step7.png)
 
 
 ## Troubleshooting
@@ -62,6 +62,6 @@ Click **Submit Anonymously**. On the next page, copy the URL from the address ba
 
 Tell whoever asked you for this log and wait for further instructions.
 
-#### Bad Gateway (500) Error on [https://paste.gg/](https://paste.gg/)
+#### Bad Gateway (500) Error on {{ site.paste_site }}
 
 Split the contents being copied/pasted into two parts, then try again. Give both links to the requestor in order.
