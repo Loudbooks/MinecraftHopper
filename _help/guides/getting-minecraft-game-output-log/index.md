@@ -47,14 +47,11 @@ As soon as your issue has occurred, go back to the Game Output window and select
 
 #### Step 6
 
-Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Paste name'** field, and a description (e.g. "Output log") in the **'Description'** field..
-![{{ site.paste_site_name }} site with data pasted](/static/images/help/guides/getting-minecraft-game-output-log/game-log-step6.png)
+Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Title'** field.
 
 #### Step 7
 
-Click **Submit Anonymously**. On the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
-![{{ site.paste_site_name }} site with data pasted and URL showing](/static/images/help/guides/getting-minecraft-game-output-log/game-log-step7.png)
-
+Click **Submit**. On the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
 
 ## Troubleshooting
 

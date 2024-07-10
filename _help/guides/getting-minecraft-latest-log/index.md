@@ -41,13 +41,11 @@ Select the entire contents (**Ctrl-A** or **Cmd-A**) of the file and copy it (**
 
 #### Step 5
 
-Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Paste name'** field, and a description (e.g. "Latest Log") in the **'Description'** field.
-![{{ site.paste_site_name }}site with contents pasted](/static/images/help/guides/getting-minecraft-latest-log/pastegg-latest-log.png)
+Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Title'** field.
 
 #### Step 6
 
-Click **Submit Anonymously**. On the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
-![{{ site.paste_site_name }}site with data pasted showing URL](/static/images/help/guides/getting-minecraft-latest-log/pastegg-latest-log-url.png)
+Click **Submit**. On the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
 
 ## Troubleshooting
 

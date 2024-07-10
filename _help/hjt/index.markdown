@@ -37,13 +37,11 @@ When the scan completes, a Notepad window will open. Select all the text (**Ctrl
 
 #### Step 5
 
-Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Paste name'** field, and a description (e.g. 'HiJackThis report') in the **'Description'** field.
-![](/static/images/help/hjt/win-pastegg-pasted.png)
+Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Title'** field.
 
 #### Step 6
 
-Click **Submit Anonymously**. On the next page, copy the URL from the address bar and give that URL to whoever requested it. Wait for further instructions.
-![](/static/images/help/hjt/win-pastegg-url.png)
+Click **Submit**. On the next page, copy the URL from the address bar and give that URL to whoever requested it. Wait for further instructions.
 {% endcapture %}
 
 {% capture accordion_body_unix %}

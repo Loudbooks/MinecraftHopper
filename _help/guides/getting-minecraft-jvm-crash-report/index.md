@@ -44,13 +44,11 @@ Double-click to open the file identified in Step 2 in Notepad. Select the entire
 
 #### Step 4
 
-Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Paste name'** field, and a description (e.g. "JVM Crash Report") in the **'Description'** field.
-![{{ site.paste_site_name }}site with data pasted](/static/images/help/guides/getting-minecraft-jvm-crash-report/pastegg-hs_err.png)
+Open {{ site.paste_site }} and paste (**Ctrl-V** or **Cmd-V**) the contents into the largest field. Put your Discord username into the **'Title'** field.
 
 #### Step 5
 
-Click **Submit Anonymously**. On the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
-![{{ site.paste_site_name }}site with data pasted and showing URL](/static/images/help/guides/getting-minecraft-jvm-crash-report/pastegg-hs_err-url.png)
+Click **Submit**. On the next page, copy the URL from the address bar and give it to whoever requested the log. Wait for further instructions.
 
 ## Troubleshooting
 
