@@ -180,7 +180,7 @@ There are also PPAs available for Adoptium and other Java distributions.
 
 Use one of these commands to install Java 21, 17, 11, or 8, respectively:
 ```
-sudo dnf install java-latest-openjdk.x86_64
+sudo dnf install java-21-openjdk.x86_64
 ```
 ```
 sudo dnf install java-17-openjdk.x86_64
@@ -196,7 +196,7 @@ sudo dnf install java-1.8.0-openjdk.x86_64
 
 Use one of these commands to install Java 21, 17, 11, or 8, respectively:
 ```
-sudo pacman -S jdk-openjdk
+sudo pacman -S jdk21-openjdk
 ```
 ```
 sudo pacman -S jdk17-openjdk
@@ -214,7 +214,7 @@ There are also AUR packages available for Adoptium and other Java distributions.
 
 Use one of these commands to install Java 21, 17, 11, or 8, respectively:
 ```
-sudo yum install java-latest-openjdk
+sudo yum install java-21-openjdk
 ```
 ```
 sudo yum install java-17-openjdk
